@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gachieedward
 - 👀 I’m interested in creating websites and systems...
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on websites creations
 - 📫 How to reach me gachieedward twitter and github
 
